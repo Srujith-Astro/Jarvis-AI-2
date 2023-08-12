@@ -1,0 +1,10 @@
+OpenAI response for prompt: using AI write a code to add two numbers
+***********
+
+
+
+def add_two_numbers(num1, num2):
+  return num1 + num2
+
+sum_result = add_two_numbers(2, 4)
+print(sum_result) # Output: 6
